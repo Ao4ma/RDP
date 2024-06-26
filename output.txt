@@ -1,9 +1,9 @@
 ﻿
-Name                           Value                                                                                                                                
-----                           -----                                                                                                                                
-User                           ycsvm103\administrator                                                                                                               
-Name                           ycsvm103                                                                                                                             
-Password                       #YamadaVM03                                                                                                                          
-Type                           Server                                                                                                                               
+Name                           Value                                                                                                                        
+----                           -----                                                                                                                        
+User                           ycsvm103\administrator                                                                                                       
+Name                           ycsvm103                                                                                                                     
+Password                       #YamadaVM03                                                                                                                  
+Type                           Server                                                                                                                       
 
 
